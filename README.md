@@ -18,7 +18,7 @@ NoPixel inspired Lamborghini Aventador LP700.
 * Showcasing Video found [https://cdn.discordapp.com/attachments/848608027254194199/1032754575108751420/bandicam_2022-10-20_16-34-04-8693.mp4)
 
 
-![image]((https://cdn.discordapp.com/attachments/848608027254194199/1032754585800036444/Screenshot_2682.png)]
+![image](https://cdn.discordapp.com/attachments/1019793471965503631/1031009840123883652/Screenshot_2342.png)
 
 
 # Sound Credits
