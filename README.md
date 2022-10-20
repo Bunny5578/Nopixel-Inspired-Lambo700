@@ -15,14 +15,14 @@ NoPixel inspired Lamborghini Aventador LP700.
 
 
 # Showcase
-* Showcasing Video found [https://cdn.discordapp.com/attachments/848608027254194199/1032754575108751420/bandicam_2022-10-20_16-34-04-8693.mp4)
+* Showcasing Video found [https://streamable.com/ru8ogl)
 
 
 ![image](https://cdn.discordapp.com/attachments/993266309297086574/1032754808806977576/Screenshot_2682.png)
 
 
 # Sound Credits
-*[Crown Victoria sound by Aquaphobic](https://www.gta5-mods.com/vehicles/ford-crown-victoria-4-6-modular-v8-engine-sound-oiv-add-on-fivem-sound)
+*[Lamborghini Aventador S Sound Mod made by Azerrty](https://no.gta5-mods.com/vehicles/lamborghini-aventador-s-sound-mod-sp-fivem-addon)
 
 # Car Model Credits
 # Lamborghini Aventador LP700-4 LibertyWalk
