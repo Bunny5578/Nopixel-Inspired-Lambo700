@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/82112471/190289781-f36fb8c4-a98a-4792-9eb3-4b45d7adb1a4.png)
 
 # Nopixel-Inspired-Lambo700
 NoPixel inspired Lamborghini Aventador LP700.
@@ -19,7 +18,7 @@ NoPixel inspired Lamborghini Aventador LP700.
 * Showcasing Video found [https://cdn.discordapp.com/attachments/848608027254194199/1032754575108751420/bandicam_2022-10-20_16-34-04-8693.mp4)
 
 
-![image](https://user-images.githubusercontent.com/82112471/190526131-4f915832-df3b-4b2a-a7a8-b7dc6fc25974.png)
+![image]([https://user-images.githubusercontent.com/82112471/190526131-4f915832-df3b-4b2a-a7a8-b7dc6fc25974.png](https://cdn.discordapp.com/attachments/848608027254194199/1032754585800036444/Screenshot_2682.png))
 
 
 # Sound Credits
